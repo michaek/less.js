@@ -1,0 +1,15 @@
+#right_image {
+  float: right;
+}
+
+.right-image {
+  float: right;
+}
+
+img.left { 
+  float: left; 
+}
+
+.left-image { 
+  float: left; 
+}
