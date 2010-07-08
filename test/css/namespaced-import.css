@@ -1,3 +1,7 @@
 .Library {
-  #css { color: yellow; }
+  @import "import-test-d.css";
+
+}
+.Library #import {
+  color: red;
 }
